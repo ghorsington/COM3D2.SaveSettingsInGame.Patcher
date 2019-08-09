@@ -12,6 +12,6 @@ This Sybaris patcher fixes the issue by forcing the game to save your settings w
 
 1. Download Sybaris for COM3D2
 
-2. Place the DLL from [releases]() into `Sybaris` folder
+2. Place the DLL from [releases](https://github.com/denikson/COM3D2.SaveSettingsInGame.Patcher/releases) into `Sybaris` folder
 
 3. Run the game
